@@ -41,7 +41,7 @@ namespace cc_lab12
 
         protected void ImageButton6_Click(object sender, ImageClickEventArgs e)
         {
-                        lblResult.Text = "You are calm and collected!";
+                      lblResult.Text = "You are practical and reliable!";
         }
     }
 }
