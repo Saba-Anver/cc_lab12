@@ -33,5 +33,15 @@ namespace cc_lab12
         {
             lblResult.Text = "You are creative and imaginative!";
         }
+
+        protected void ImageButton5_Click(object sender, ImageClickEventArgs e)
+        {
+                        lblResult.Text = "You are thoughtful and introspective!";
+        }
+
+        protected void ImageButton6_Click(object sender, ImageClickEventArgs e)
+        {
+                        lblResult.Text = "You are calm and collected!";
+        }
     }
 }

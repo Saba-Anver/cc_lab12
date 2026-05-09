@@ -14,6 +14,10 @@
 
         <asp:ImageButton ID="ImageButton4" runat="server" ImageUrl="images/flower4.jpg" OnClick="ImageButton4_Click" Width="300" Height="300"/>
         <br />
+         <asp:ImageButton ID="ImageButton5" runat="server" ImageUrl="images/flower5.jpg" OnClick="ImageButton5_Click" Width="300" Height="300"/>
+
+     <asp:ImageButton ID="ImageButton6" runat="server" ImageUrl="images/flower6.jpg" OnClick="ImageButton6_Click" Width="300" Height="300"/>
+        <br />
         <asp:Label ID="lblResult" runat="server" Text=""></asp:Label>
     </form>
 
